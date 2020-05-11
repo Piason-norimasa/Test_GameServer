@@ -1,8 +1,9 @@
-bakuden-game-server
+game-server
 ========================
 
 言語: python
 フレームワーク： tornade
+
 
 -- 友達とリリースする予定でなくなった、プログラムの残骸になります。
 
